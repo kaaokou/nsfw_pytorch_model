@@ -24,5 +24,7 @@ nsfw_pytorch_model
 ### 模型表现
 
 mobilenet_v3_large_nsfw_base_v1：平均acc 96.05%
+    - 链接:https://pan.baidu.com/s/1eDlG9lVXznEJIdiT8HGdOg  密码:r08g
 
-resnet101_nsfw_base_v1:平均acc
+resnet101_nsfw_base_v1:平均acc 95.09%
+    - 链接:https://pan.baidu.com/s/14srT0wvB4hr0Ba-9-tH4aw  密码:neg8

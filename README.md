@@ -28,3 +28,6 @@ mobilenet_v3_large_nsfw_base_v1：平均acc 96.05%
 
 resnet101_nsfw_base_v1:平均acc 95.09%
     - 链接:https://pan.baidu.com/s/14srT0wvB4hr0Ba-9-tH4aw  密码:neg8
+    
+mobilenet_v3_large_nsfw_balance_v1:  # 添加平衡数据处理训练结果
+    - 链接:https://pan.baidu.com/s/1-V5kaqGp-Oo0ycHJA_LsYA  密码:jwjr
